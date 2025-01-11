@@ -1,5 +1,9 @@
 ## Hi there 👋
+Hello everyone👋, I am now a student from Harbin Medical University, and I also run [Beijing Zhiyuan Network Technology Co., Ltd.](https://www.90yf.com/) I will be sharing some bioinformatics codes, medical image processing codes, and other resources I use during my studies. Additionally, I will also open-source and share some server software. Thank you for your support ! If you need servers, feel free to contact me. Our company can offer discounted servers in China!
 
+Email : yuanfeijt@hotmail.com
+
+My blog : www.01yf.cn
 <!--
 **yuanfeijt/yuanfeijt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
